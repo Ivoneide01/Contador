@@ -32,7 +32,7 @@ public class Contador {
         }
     }
 }
-
+        //class para imprimir a mensagem caso for maior
 class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String message) {
         super(message);
